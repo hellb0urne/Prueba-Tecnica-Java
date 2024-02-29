@@ -8,7 +8,7 @@
 
 ### Descarga del Proyecto
 Puedes descargar el proyecto desde GitHub utilizando el siguiente enlace:
-[Evaluación Java en GitHub](https://github.com/hellb0urne/Evaluacion-Java.git)
+[Evaluación Java en GitHub](https://github.com/hellb0urne/Prueba-Tecnica-Java.git)
 
 ### Ejecución de la Aplicación con Consola H2
 1. Clona o descarga el proyecto desde GitHub.
